@@ -1,0 +1,1 @@
+prog1.y86.txt and prog2.y86.txt are just test cases. Run the program by dowloading the repo, and running the makefile and just entering prog1 or prog2
